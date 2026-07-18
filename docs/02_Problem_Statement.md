@@ -13,11 +13,17 @@ The rapid evolution of technology introduces new tools, frameworks, and programm
 Most learners face the following challenges:
 
 - Lack of a clear learning roadmap.
+
 - Difficulty in identifying the skills required for a specific career.
+
 - Inability to assess their current skill level.
+
 - Confusion about which skill should be learned next.
+
 - Information scattered across multiple websites.
+
 - No personalized guidance based on existing knowledge.
+
 - Difficulty tracking learning progress.
 
 ---
@@ -27,9 +33,13 @@ Most learners face the following challenges:
 Current platforms such as online course providers and static roadmap websites provide valuable learning resources but have several limitations:
 
 - They offer generic learning paths instead of personalized recommendations.
+
 - They assume every learner starts from the same level.
+
 - They do not analyze existing skills before recommending content.
+
 - They rarely provide a structured skill-gap analysis.
+
 - They do not combine career planning, roadmap generation, progress tracking, and learning recommendations into a single platform.
 
 ---
@@ -49,7 +59,11 @@ The primary objective is to simplify career planning and help learners focus on 
 SkillForge aims to:
 
 - Reduce confusion during career planning.
+
 - Help learners save time by following structured learning paths.
+
 - Improve employability through targeted skill development.
+
 - Encourage continuous learning through progress tracking.
+
 - Provide students with confidence in achieving their career goals.
